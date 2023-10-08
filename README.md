@@ -1,6 +1,6 @@
 # Noroff social
 
-![image](https://i.imgur.com/PO18xSH.jpeg)
+![image](https://i.imgur.com/gYjLL4v.jpg)
 
 A project made in school with react and tailwind ment to be able to use CRUD operations and display results from api
 
@@ -9,8 +9,6 @@ A project made in school with react and tailwind ment to be able to use CRUD ope
 A social media page with user registration, login, posts, comments, profiles.
 
 ## Built With
-
-You can list a the tech stack that you've used over here
 
 - [React.js](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com)
@@ -46,4 +44,3 @@ This is where you can leave your social links for people to contact you, such as
 yndiss@gmail.com
 
 [My LinkedIn page](https://www.linkedin.com/in/%C3%B8yvind-yndestad-204360195/)
-.
