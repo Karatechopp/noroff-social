@@ -1,6 +1,6 @@
 # Noroff social
 
-[image]((https://i.imgur.com/PO18xSH.jpeg))
+![image](https://i.imgur.com/PO18xSH.jpeg)
 
 A project made in school with react and tailwind ment to be able to use CRUD operations and display results from api
 
@@ -43,7 +43,7 @@ npm run start
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Email page](yndiss@gmail.com)
+yndiss@gmail.com
 
-[My LinkedIn page]((https://www.linkedin.com/in/%C3%B8yvind-yndestad-204360195/))
+[My LinkedIn page](https://www.linkedin.com/in/%C3%B8yvind-yndestad-204360195/)
 .
